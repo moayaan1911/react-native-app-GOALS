@@ -5,6 +5,7 @@
 ## About the Project
 
 ![img1](./assets/logo/img1.jpeg) ![img3](./assets/logo/img3.jpeg)
+
 Goals app is an extremely BASIC and beginner level mobile app created using React Native. You can write your GOALS in the app. This is a cross-platform app as it runs on both ios and android (the deployment link belongs to apk).
 **This is my PILOT PROJECT, my FIRST mobile-app.**
 
