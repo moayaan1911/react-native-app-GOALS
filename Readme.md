@@ -42,7 +42,7 @@ The app has been created using just REACT NATIVE. This doesn't have any backend 
 Hello Everyone, My name is Mohammad Ayaan Siddiqui. I am a WEB3 developer and a FIRM BELIEVER of DECENTRALIZED WEB and cryptocurrencies in general. If you want to connect with me, the socials are below.
 
 1.  Github- [https://github.com/moayaan1911](https://github.com/moayaan1911)
-2.  Linkedin- [https://www.linkedin.com/in/mohammad-ayaan-siddiqui-678564214/]
+2.  Linkedin- https://www.linkedin.com/in/mohammad-ayaan-siddiqui-678564214/
 3.  Twitter- [https://www.twitter.com/usdisshitcoin](https://www.twitter.com/usdisshitcoin)
 4.  Instagram- [https://www.instagram.com/moayaan_1911](https://www.instagram.com/moayaan_1911)
 5.  Telegram-https://t.me/usdisshitcoin
